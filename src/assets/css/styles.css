@@ -240,6 +240,13 @@ header.masthead .intro-text .intro-heading {
   margin: 0 10px 5px;
 }
 
+@media (max-width:768px) {
+  .header-icon {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
 .footer-icon {
   -webkit-filter: invert(1);
   filter: invert(1);
@@ -287,6 +294,12 @@ header.masthead .intro-text .intro-heading {
 .scroll-icon {
   width: 50px;
   color: white;
+}
+
+@media (max-width:767px) {
+  .scroll-icon {
+    display: none;
+  }
 }
 
 .cv-img {

@@ -11,17 +11,17 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
-            <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">About me</a>
+            <li class="nav-item" >
+              <a @click="collapseMenu" class="nav-link js-scroll-trigger" href="#about" >About me</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+              <a @click="collapseMenu" class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+              <a @click="collapseMenu" class="nav-link js-scroll-trigger" href="#experience">Experience</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#education">education</a>
+              <a @click="collapseMenu" class="nav-link js-scroll-trigger" href="#education">education</a>
             </li>
             <a style="align-self:center" target="_blank" href="https://github.com/matiasdavidson"><img class="header-icon" src="../public/img/GitHub-Mark-Light-120px-plus.png" alt=""></a>
             <a style="align-self:center" target="_blank" href="https://www.linkedin.com/in/matias-davidson/"><img class="header-icon" src="../public/img/linkedin-4-512.png" alt=""></a>
@@ -312,6 +312,11 @@ import Portfolio from './components/Portfolio'
 
 export default {
   name: 'app',
+  methods: {
+    collapseMenu: function(event){
+      document.getElementById("navbarResponsive").classList.remove("show");
+    }
+  },
   components: {
     Portfolio
   }
