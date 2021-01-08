@@ -48,7 +48,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
            <img class="cv-img rounded-circle" src="../public/img/cv-black.png">
-            <h3 class="section-subheading text-muted about-text"><br>Jr Front End Developer<br><br>Marketing Graduate<br><br>Amateur snowboarder and animal rights activist
+            <h3 class="section-subheading text-muted about-text"><br>Jr Front End Developer<br><br>Marketing Graduate<br><br>Amateur snowboarder, travel enthusiast and animal rights activist
             </h3>
           </div>
           <div class="languages col-lg-12 text-center">
