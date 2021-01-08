@@ -165,7 +165,7 @@
             <div class="job">
               <a target="_blank" href="https://www.globant.com"><img class="mx-auto rounded-circle" src="https://uxmyjob.com/wp-content/uploads/2019/11/logo-globant-uxmyjob.png" alt=""></a>
               <h4>Globant</h4>
-              <p class="text-muted"><strong>Front End Developer (Dec 2020 - Now)</strong> <br>Vue.js Front End Developer for Ubisoft.</p>
+              <p class="text-muted"><strong>Front End Developer (Dec 2020 - Now)</strong> <br>Vue.js Front End Developer.</p>
             </div>
           </div>
           <div class="col-sm-4">
