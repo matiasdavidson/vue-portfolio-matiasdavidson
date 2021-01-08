@@ -48,7 +48,7 @@ export default {
                 img: 'vuejs.jpg',
                 caption: 'Vue.js project',
                 title: 'Weather app (Mobile for now)',
-                url: 'https://www.frigolottaricotta.com/'
+                url: 'https://vue-wheather-mobile-project.netlify.app/'
             },
             {
                 img: 'kahlo.png',
