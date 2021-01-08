@@ -36,13 +36,13 @@ export default {
                 img: 'vuejs.jpg',
                 caption: 'Vue.js project',
                 title: 'Portfolio',
-                url: 'https://www.frigolottaricotta.com/'
+                url: 'https://matiasdavidson.netlify.app/'
             },
                         {
                 img: 'vuejs.jpg',
                 caption: 'Vue.js project',
                 title: 'Crytocurrency web',
-                url: 'https://www.frigolottaricotta.com/'
+                url: 'https://matias-davidson-vue-cryptoworld.netlify.app/'
             },
             {
                 img: 'vuejs.jpg',
@@ -66,13 +66,13 @@ export default {
                 img: 'coderhouse.jpg',
                 caption: 'Project for Coderhouse',
                 title: 'Starting a React Native project',
-                url: 'https://github.com/matiasdavidson/ReactNativeProjectStart'
+                url: 'https://github.com/matiasdavidson/react-native-project-start'
             },
             {
                 img: 'digitalhouse.jpg',
                 caption: 'Project for Digital House',
                 title: 'Natural products ecommerce (Laravel)',
-                url: 'https://github.com/matiasdavidson/ElRestoDelIceberg-Laravel-Project'
+                url: 'https://github.com/matiasdavidson/elrestodeliceberg-laravel-project'
             }
         ]
     })
