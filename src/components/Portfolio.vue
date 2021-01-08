@@ -36,7 +36,7 @@ export default {
                 img: 'vuejs.jpg',
                 caption: 'Vue.js project',
                 title: 'Portfolio',
-                url: 'https://matiasdavidson.netlify.app/'
+                url: 'https://github.com/matiasdavidson/vue-portfolio-matiasdavidson'
             },
                         {
                 img: 'vuejs.jpg',
@@ -72,7 +72,7 @@ export default {
                 img: 'digitalhouse.jpg',
                 caption: 'Project for Digital House',
                 title: 'Natural products ecommerce (Laravel)',
-                url: 'https://github.com/matiasdavidson/elrestodeliceberg-laravel-project'
+                url: 'https://github.com/matiasdavidson/laravel-elrestodeliceberg-project'
             }
         ]
     })
