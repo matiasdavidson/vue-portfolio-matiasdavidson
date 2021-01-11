@@ -202,94 +202,96 @@
     </section>
 
     <section id="skills">
-      <h2 class="section-heading text-uppercase">Skills</h2>
-        <div class="row text-center">
-          <div class="col-md-3">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
-            </span>
-            <h5 class="skill-heading">Vue.js (b)</h5>
-          </div>
-          <div class="col-md-3">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
-            </span>
-            <h5 class="skill-heading">React JS (bk)</h5>
-          </div>
-          <div class="col-md-3">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-            </span>
-            <h5 class="skill-heading">Angular (bk)</h5>
-          </div>
-           <div class="col-md-3">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-            </span>
-            <h5 class="skill-heading">Laravel (bk)</h5>
-          </div>
-           <div class="col-md-3">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-            </span>
-            <h5 class="skill-heading">React Native (bk)</h5>
-          </div>
-           <div class="col-md-3">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-            </span>
-            <h5 class="skill-heading">Javascript (i)</h5>
-          </div>
-           <div class="col-md-3">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-            </span>
-            <h5 class="skill-heading">PHP (b)</h5>
-          </div>
-           <div class="col-md-3">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-            </span>
-            <h5 class="skill-heading">SQL (b)</h5>
-          </div>
-           <div class="col-md-3">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-            </span>
-            <h5 class="skill-heading">HTML</h5>
-          </div>
-           <div class="col-md-3">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-            </span>
-            <h5 class="skill-heading">SASS</h5>
-          </div>
-           <div class="col-md-3">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-            </span>
-            <h5 class="skill-heading">CSS</h5>
-          </div>
-           <div class="col-md-3">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-            </span>
-            <h5 class="skill-heading">Scrum</h5>
+      <div class="container">
+        <h2 class="section-heading text-uppercase">Skills</h2>
+          <div class="row text-center">
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">Vue.js (b)</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">React JS (bk)</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">Angular (bk)</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">Laravel (bk)</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">React Native (bk)</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">Javascript (i)</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">PHP (b)</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">SQL (b)</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">HTML</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">SASS</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">CSS</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">Scrum</h5>
+            </div>
           </div>
         </div>
-    </section>
+      </section>
 
     <!-- Footer -->
     <footer style="background-color: black;">

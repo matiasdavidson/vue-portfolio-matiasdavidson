@@ -295,6 +295,10 @@ header.masthead .intro-text .intro-heading {
   .scroll-icon {
     display: none;
   }
+
+  .col-md-3 {
+    padding: 0 !important;
+  }
 }
 
 .cv-img {
