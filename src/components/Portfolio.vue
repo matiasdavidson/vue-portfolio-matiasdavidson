@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-light" id="portfolio">
+    <section id="portfolio">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -33,45 +33,45 @@ export default {
     data: () => ({
         portfolioJSON: [
             {
-                img: 'vuejs.jpg',
-                caption: 'Vue.js project',
-                title: 'Portfolio',
+                img: 'vista-portfolio.png',
+                caption: 'Resume',
+                title: 'Vue.js project',
                 url: 'https://github.com/matiasdavidson/vue-portfolio-matiasdavidson'
             },
                         {
-                img: 'vuejs.jpg',
-                caption: 'Vue.js project',
-                title: 'Crytocurrency web',
+                img: 'vista-crypto.png',
+                caption: 'Cryptocurrency web',
+                title: 'Vue.js project',
                 url: 'https://matias-davidson-vue-cryptoworld.netlify.app/'
             },
             {
-                img: 'vuejs.jpg',
-                caption: 'Vue.js project',
-                title: 'Weather app (Mobile for now)',
+                img: 'vista-weather.png',
+                caption: 'Weather app',
+                title: 'Vue.js project',
                 url: 'https://vue-wheather-mobile-project.netlify.app/'
             },
             {
-                img: 'kahlo.png',
-                caption: 'Kahlo Agency',
-                title: 'Front End development for Frigo®',
-                url: 'https://www.frigolottaricotta.com/'
+                img: 'vista-lotta.png',
+                caption: 'Landing Page for Frigo®',
+                title: 'JS, HTML, PHP, SCSS',
+                url: 'https://github.com/matiasdavidson/Ricotta'
             },
             {
-                img: 'kahlo.png',
-                caption: 'Kahlo Agency',
-                title: 'Front End development for Frigo®',
-                url: 'https://www.fchsnackstyle.com/'
+                img: 'vista-cheese.png',
+                caption: 'Landing Page for Frigo®',
+                title: 'JS, HTML, PHP, SCSS',
+                url: 'https://github.com/matiasdavidson/Cheeseheads'
             },
             {
-                img: 'coderhouse.jpg',
-                caption: 'Project for Coderhouse',
+                img: 'vista-react-native.png',
+                caption: 'Basic Spotify clone',
                 title: 'Starting a React Native project',
                 url: 'https://github.com/matiasdavidson/react-native-project-start'
             },
             {
-                img: 'digitalhouse.jpg',
-                caption: 'Project for Digital House',
-                title: 'Natural products ecommerce (Laravel)',
+                img: 'vista-erdi.png',
+                caption: 'El Resto del Iceberg',
+                title: 'Natural products ecommerce (Laravel project)',
                 url: 'https://github.com/matiasdavidson/laravel-elrestodeliceberg-project'
             }
         ]

@@ -247,11 +247,6 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
-.footer-icon {
-  -webkit-filter: invert(1);
-  filter: invert(1);
-}
-
 .about-text {
   margin-bottom: 20px !important;
 }
@@ -761,7 +756,8 @@ section#contact :-ms-input-placeholder {
 
 footer {
   padding: 25px 0;
-  text-align: center
+  text-align: center;
+  color: white;
 }
 
 footer span.copyright {
