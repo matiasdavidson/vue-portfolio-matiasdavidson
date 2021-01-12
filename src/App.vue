@@ -204,7 +204,7 @@
     <section id="skills">
       <div class="container">
         <h2 class="section-heading text-uppercase">Skills</h2>
-        <h3 class="section-subheading text-muted">(bk) = basic knoledge | (b) = basic professional experience | (i) = intermediate</h3>
+        <h3 class="section-subheading text-muted">(bk) = basic knowledge | (b) = basic professional experience | (i) = intermediate</h3>
           <div class="row text-center">
             <div class="col-md-3">
               <span class="fa-stack fa-4x">
