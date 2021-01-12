@@ -4,7 +4,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Portfolio</h2>
-            <h3 class="section-subheading text-muted">Here are some free lance and some personal projects. Enjoy!</h3>
+            <h3 class="section-subheading text-muted">Here are some freelance and some personal projects. Enjoy!</h3>
           </div>
         </div>
         <div class="row">
