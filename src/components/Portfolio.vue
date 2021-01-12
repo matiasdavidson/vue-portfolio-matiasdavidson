@@ -63,6 +63,12 @@ export default {
                 url: 'https://github.com/matiasdavidson/react-native-project-start'
             },
             {
+                img: 'vista-vep.png',
+                caption: 'Activist Organization web',
+                title: 'Vue.js project',
+                url: 'https://veganismoenparques.netlify.app/'
+            },
+            {
                 img: 'vista-weather.png',
                 caption: 'Weather app',
                 title: 'Vue.js project',
