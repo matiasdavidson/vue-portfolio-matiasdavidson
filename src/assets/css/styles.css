@@ -764,6 +764,10 @@ footer {
   color: white;
 }
 
+.footer-icon {
+  margin-top: 7px;
+}
+
 footer span.copyright {
   font-size: 90%;
   line-height: 40px;

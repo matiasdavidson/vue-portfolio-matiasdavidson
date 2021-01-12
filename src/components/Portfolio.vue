@@ -45,12 +45,6 @@ export default {
                 url: 'https://matias-davidson-vue-cryptoworld.netlify.app/'
             },
             {
-                img: 'vista-weather.png',
-                caption: 'Weather app',
-                title: 'Vue.js project',
-                url: 'https://vue-wheather-mobile-project.netlify.app/'
-            },
-            {
                 img: 'vista-lotta.png',
                 caption: 'Landing Page for Frigo®',
                 title: 'JS, HTML, PHP, SCSS',
@@ -67,6 +61,12 @@ export default {
                 caption: 'Basic Spotify clone',
                 title: 'Starting a React Native project',
                 url: 'https://github.com/matiasdavidson/react-native-project-start'
+            },
+            {
+                img: 'vista-weather.png',
+                caption: 'Weather app',
+                title: 'Vue.js project',
+                url: 'https://vue-wheather-mobile-project.netlify.app/'
             },
             {
                 img: 'vista-erdi.png',
