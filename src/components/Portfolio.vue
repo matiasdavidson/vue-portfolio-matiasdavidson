@@ -86,12 +86,6 @@ export default {
                 title: 'Natural products ecommerce (Laravel project)',
                 url: 'https://github.com/matiasdavidson/laravel-elrestodeliceberg-project'
             },
-            {
-                img: 'vista-erdi.png',
-                caption: 'El Resto del Iceberg',
-                title: 'Natural products ecommerce (Laravel project)',
-                url: 'https://github.com/matiasdavidson/laravel-elrestodeliceberg-project'
-            },
         ]
     })
 }
