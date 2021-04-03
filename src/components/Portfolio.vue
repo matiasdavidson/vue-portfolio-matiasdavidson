@@ -1,7 +1,7 @@
 <template>
     <section id="portfolio">
-      <div class="container">
-        <div class="row">
+      <div v-vue-aos="{animationClass:'fadeIn animated'}" class="container">
+        <div class="row" data-aos="fade-up">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Portfolio</h2>
             <h3 class="section-subheading text-muted">Here are some freelance and some personal projects. Enjoy!</h3>
@@ -27,11 +27,17 @@
       </div>
     </section>
 </template>
-
 <script>
+
 export default {
     data: () => ({
         portfolioJSON: [
+            {
+                img: 'vista-bb-site.png',
+                caption: 'Breaking Bad´s Site',
+                title: 'Breaking Bad Site using it´s api (React project)',
+                url: 'https://mati-breaking-bad-site.netlify.app/'
+            },
             {
                 img: 'vista-portfolio.png',
                 caption: 'Resume',
@@ -79,7 +85,13 @@ export default {
                 caption: 'El Resto del Iceberg',
                 title: 'Natural products ecommerce (Laravel project)',
                 url: 'https://github.com/matiasdavidson/laravel-elrestodeliceberg-project'
-            }
+            },
+            {
+                img: 'vista-erdi.png',
+                caption: 'El Resto del Iceberg',
+                title: 'Natural products ecommerce (Laravel project)',
+                url: 'https://github.com/matiasdavidson/laravel-elrestodeliceberg-project'
+            },
         ]
     })
 }

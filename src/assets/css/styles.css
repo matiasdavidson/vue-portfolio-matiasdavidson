@@ -240,6 +240,14 @@ header.masthead .intro-text .intro-heading {
   margin: 0 10px 5px;
 }
 
+.on-hover-zoom {
+  transition: transform .2s;
+}
+
+.on-hover-zoom:hover {
+  transform: scale(1.1);
+}
+
 @media (max-width:768px) {
   .header-icon {
     margin-top: 10px;
