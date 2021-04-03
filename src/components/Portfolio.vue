@@ -35,7 +35,7 @@ export default {
             {
                 img: 'vista-bb-site.png',
                 caption: 'Breaking Bad´s Site',
-                title: 'Breaking Bad Site using it´s api (React project)',
+                title: 'Breaking Bad Site using its api (React project)',
                 url: 'https://mati-breaking-bad-site.netlify.app/'
             },
             {
