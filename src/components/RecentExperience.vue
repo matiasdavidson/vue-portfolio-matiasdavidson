@@ -12,7 +12,7 @@
         <div class="job">
           <a target="_blank" href="https://www.globant.com"><img class="mx-auto rounded-circle" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEyRlrQPqbyMw/company-logo_200_200/0/1557345481253?e=2159024400&v=beta&t=cz7zn8MR1aw2oJWizMgOp_kZwkUGD7Ebxgoq6nSmtHY" alt=""></a>
           <h4>Globant</h4>
-          <p class="text-muted"><strong>Front End Developer (Dec 2020 - Now)</strong> <br>Front End development for Ubisoft at one of the five argentinian unicorn companies. <br> Vue.js | Vuex | Docker | VS | Perforce | MySQL | Bootstrap | Jira | Scrum.</p>
+          <p class="text-muted"><strong>Front End Developer (Dec 2020 - Now)</strong> <br>Front End development for Ubisoft at one of the five argentinian unicorn companies. <br> Vue.js | Node.js | Vuex | Docker | VS | Perforce | MySQL | Bootstrap | Jira | Scrum.</p>
         </div>
       </div>
       <div class="col-sm-4">
