@@ -25,7 +25,7 @@
       </div>
       <div class="col-sm-4">
         <div class="job">
-          <a target="_blank" href="https://reserv.com.ar/"><img class="mx-auto rounded-circle" src="https://ii.ct-stc.com/5/logos/empresas/2015/10/08/reserv-srl-DF4DD6A4991F9412thumbnail.jpeg" alt="" style="border: solid lightgray 1px"></a>
+          <a target="_blank" href="https://reserv.com.ar/"><img class="mx-auto rounded-circle" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFO-_9MazybKg/company-logo_200_200/0/1618596281255?e=2159024400&v=beta&t=DHZTlhGaT5N8eayb239ON1NpYb_qufSRO3aIAkNuZpA" alt="" style="border: solid lightgray 1px"></a>
           <h4>Reserv IT Solutions</h4>
           <p class="text-muted"><strong>Full Stack Developer (2019 - 2020)</strong><br>Working with Angular, JS and PHP. Also helping with test automation for websites.</p>
         </div>
