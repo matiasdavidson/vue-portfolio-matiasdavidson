@@ -12,7 +12,7 @@
             <div class="job">
               <a target="_blank" href="https://www.globant.com"><img class="mx-auto rounded-circle" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEyRlrQPqbyMw/company-logo_200_200/0/1557345481253?e=2159024400&v=beta&t=cz7zn8MR1aw2oJWizMgOp_kZwkUGD7Ebxgoq6nSmtHY" alt=""></a>
               <h4>Globant</h4>
-              <p class="text-muted"><strong>Front End Developer (Dec 2020 - Now)</strong> <br>Vue.js Front End Developer.</p>
+              <p class="text-muted"><strong>Front End Developer (Dec 2020 - Now)</strong> <br>Front End development for Ubisoft at one of the five argentinian unicorn companies. <br> Vue.js | Vuex | Docker | VS | Perforce | MySQL | Bootstrap | Jira | Scrum.</p>
             </div>
           </div>
           <div class="col-sm-4">
@@ -25,7 +25,7 @@
           </div>
           <div class="col-sm-4">
             <div class="job">
-              <a target="_blank" href="https://reserv.com.ar/"><img class="mx-auto rounded-circle" src="https://media-exp1.licdn.com/dms/image/C4E03AQEYnHx0Pr9Chg/profile-displayphoto-shrink_200_200/0/1583768929956?e=1622073600&v=beta&t=khfCLhINkz7F9jSnubtBINvnAVDYzzRoi8_PZHJpfzo" alt="" style="border: solid lightgray 1px"></a>
+              <a target="_blank" href="https://reserv.com.ar/"><img class="mx-auto rounded-circle" src="https://ii.ct-stc.com/5/logos/empresas/2015/10/08/reserv-srl-DF4DD6A4991F9412thumbnail.jpeg" alt="" style="border: solid lightgray 1px"></a>
               <h4>Reserv IT Solutions</h4>
               <p class="text-muted"><strong>Full Stack Developer (2019 - 2020)</strong><br>Working with Angular, JS and PHP. Also helping with test automation for websites.</p>
             </div>

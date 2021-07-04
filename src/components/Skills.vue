@@ -72,6 +72,27 @@
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
               </span>
+              <h5 class="skill-heading">Vuex</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">Docker</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">VS</h5>
+            </div>
+            <div class="col-md-3">
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
               <h5 class="skill-heading">SASS</h5>
             </div>
             <div class="col-md-3">
@@ -109,6 +130,12 @@
               </span>
               <h5 class="skill-heading">SVN</h5>
             </div>
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+              </span>
+              <h5 class="skill-heading">Jira</h5>
+            </div>
             <div class="col-md-3">
               <span class="fa-stack fa-4x">
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
@@ -117,7 +144,6 @@
               <h5 class="skill-heading">API</h5>
             </div>
           </div>
-        </div>
       </section>
 </template>
 
