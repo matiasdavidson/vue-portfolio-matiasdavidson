@@ -137,6 +137,7 @@
             </span>
             <h5 class="skill-heading">SVN</h5>
           </div>
+          <div class="col-md-3">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
