@@ -29,7 +29,7 @@
 				<a
 					target="_blank"
 					style="align-self:center"
-					href="https://drive.google.com/file/d/1CBrpjBTOuyvkI_43SviaSbYBjY592JYy/view"
+					href="https://drive.google.com/file/d/1JqY0tSVFHOzKpbOAi8jCyokPqnMNT_sj/view?usp=sharing"
 					><img
 						class="header-icon footer-icon on-hover-zoom"
 						src="../../public/img/cv-icon.png"
